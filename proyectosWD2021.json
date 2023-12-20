@@ -1,0 +1,56 @@
+[{
+        "id": 1,
+        "autor": "Coste: 14.00€",
+        "titulo": "Puente del Renacido (2016)",
+        "srcimg": "https://ingeniatte.es/wp-content/uploads/2018/10/Leon-Barrios-de-Luna.jpg",
+        "alt": "Puente del Renacido",
+        "texto": "Puente del Renacido en Lugo en el cual realizamos el transporte y el hormigón, encargo del ayuntamiento de Lugo, obra realizada entre Octubre de 2016 y Enero de 2017",
+        "url": "https://www.expansion.com/empresas-de/transportes-de-mercancias-por-carretera-y-almacenamiento/huesca/3.html"
+    },
+    {
+        "id": 2,
+        "autor": "Coste: 6.200€",
+        "titulo": "Pasarela 1 d'Octubre (2021)",
+        "srcimg": "https://images.adsttc.com/media/images/5131/9078/b3fc/4b0d/9800/1d03/large_jpg/1339112423-passera-lleida-2.jpg?1412026334",
+        "alt": "Pasarela 1 d'Octubre",
+        "texto": "Pasarela por encima del Rio Segre en Lleida en la cual realizamos el transporte y el hormigón, encargo del ayuntamiento de Lleida, obra realizada entre Mayo de 2021 y Agosto de 2021",
+        "url": "https://www.expansion.com/empresas-de/transportes-de-mercancias-por-carretera-y-almacenamiento/huesca/3.html"
+    },
+    {
+        "id": 3,
+        "autor": "Coste: 12.500€",
+        "titulo": "Obra de un Particular (2022)",
+        "srcimg": "https://www.hermanosotero.com/como-es-el-proceso-de-excavacion-paso-a-paso_img42512t1.jpg",
+        "alt": "Obra",
+        "texto": "Excavacion, hormigón y transporte para un particular de Madrid, realizada entre Enero de 2022 y Marzo de 2022",
+        "url": "https://www.expansion.com/empresas-de/transportes-de-mercancias-por-carretera-y-almacenamiento/huesca/3.html"
+    },
+    {
+        "id": 4,
+        "autor": "Coste: 4.100€",
+        "titulo": "Excavación para Tuberías (2012)",
+        "srcimg": "https://constructivo.com/imgPosts/1692574500MH0m4KbE.jpg",
+        "alt": "Excavacion para Tuberías",
+        "texto": "Excavación realizada para un sistema de Tuberías para la granja de un particular, realizada durante Junio de 2012. ",
+        "url": "https://www.expansion.com/empresas-de/transportes-de-mercancias-por-carretera-y-almacenamiento/huesca/3.html"
+    },
+    {
+        "id": 5,
+        "autor": "Coste: 5.500€",
+        "titulo": "Hormigón para Plaza Adalt (2014)",
+        "srcimg": "https://giatec.bdl.cl/wp-content/uploads/2016/07/FOTO-1.jpg",
+        "alt": "Hormigón",
+        "texto": "Hormigón realizado para la Plaza Adalt encargada por el ayuntamiento de Balaguer. realizado durante Julio de 2014",
+        "url": "https://www.expansion.com/empresas-de/transportes-de-mercancias-por-carretera-y-almacenamiento/huesca/3.html"
+    },
+    {
+        "id": 6,
+        "autor": "Coste: 2.300€",
+        "titulo": "Transporte de troncos (2019)",
+        "srcimg": "https://previews.123rf.com/images/ziss/ziss1201/ziss120100017/11867076-cami%C3%B3n-de-transporte-de-la-madera.jpg",
+        "alt": "Camión lleno de troncos",
+        "texto": "Trabajo de transporte de troncos, encargo particular. Realizado en enero de 2019",
+        "url": "https://www.expansion.com/empresas-de/transportes-de-mercancias-por-carretera-y-almacenamiento/huesca/3.html"
+    }
+
+]
